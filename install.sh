@@ -13,9 +13,9 @@ apt install figlet
 apt-get install figlet
 cd
 cd 
-cd Infect
+cd INFACE
 cd src
-chmod +x Infect
+chmod +x INFACE
 cp Infect /data/data/com.termux/files/usr/bin
 cd
 cd
