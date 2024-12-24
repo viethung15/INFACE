@@ -25,11 +25,11 @@ elif(op==3):
  os.system("cd && cd Infect && bash src/About.sh")
 elif(op==4):
  time.sleep(0.2)
- print("\033[1;31;40mChờ một xíu.....")
+ print("\033[1;31;40mVui lòng chờ...")
  os.system("cd")
 else:
  print("\033[1;31;40mInvalid input. Reloading Tool") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd INFACE")
+ os.system("cd Infect")
  os.system("python2 MainMenu.py")
