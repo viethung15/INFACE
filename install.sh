@@ -20,4 +20,4 @@ cp Infect /data/data/com.termux/files/usr/bin
 cd
 cd
 figlet 'Infect installed' | lolcat -p 1.0
-echo 'Run command to start: Infect'
+echo 'Run command to start: INFACE'
