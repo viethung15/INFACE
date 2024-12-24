@@ -13,11 +13,11 @@ apt install figlet
 apt-get install figlet
 cd
 cd 
-cd INFACE
+cd Infect
 cd src
-chmod +x INFACE
-cp INFACE /data/data/com.termux/files/usr/bin
+chmod +x Infect
+cp Infect /data/data/com.termux/files/usr/bin
 cd
 cd
-figlet 'INFACE installed' | lolcat -p 1.0
-echo 'Run command to start: INFACE'
+figlet 'Infect installed' | lolcat -p 1.0
+echo 'Run command to start: Infect'
