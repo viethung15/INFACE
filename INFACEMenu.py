@@ -31,5 +31,5 @@ else:
  print("\033[1;31;40mInvalid input. Reloading Tool") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd Infect")
- os.system("python2 MainMenu.py")
+ os.system("cd INFACE")
+ os.system("python2 INFACEMenu.py")
