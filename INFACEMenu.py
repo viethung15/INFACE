@@ -25,7 +25,7 @@ elif(op==3):
  os.system("cd && cd INFACE && bash src/About.sh")
 elif(op==4):
  time.sleep(0.2)
- print("\033[1;31;40mVui lòng chờ...")
+ print("\033[1;31;40mQuiting utility...")
  os.system("cd")
 else:
  print("\033[1;31;40mInvalid input. Reloading Tool") 
