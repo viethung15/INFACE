@@ -1,6 +1,6 @@
 cd
 cd
 cd INFACE
-python2 INFACEMainMenu.py
+python2 INFACEMenu.py
 cd
 cd
